@@ -1,0 +1,7 @@
+C:\Users\Diego\source\repos\Realocando_Arrays\Realocando_Arrays\bin\Debug\Realocando_Arrays.exe.config
+C:\Users\Diego\source\repos\Realocando_Arrays\Realocando_Arrays\bin\Debug\Realocando_Arrays.exe
+C:\Users\Diego\source\repos\Realocando_Arrays\Realocando_Arrays\bin\Debug\Realocando_Arrays.pdb
+C:\Users\Diego\source\repos\Realocando_Arrays\Realocando_Arrays\obj\Debug\Realocando_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\Realocando_Arrays\Realocando_Arrays\obj\Debug\Realocando_Arrays.exe
+C:\Users\Diego\source\repos\Realocando_Arrays\Realocando_Arrays\obj\Debug\Realocando_Arrays.pdb
+C:\Users\Diego\source\repos\Realocando_Arrays\Realocando_Arrays\obj\Debug\Realocando_Arrays.csprojAssemblyReference.cache
